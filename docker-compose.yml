@@ -19,3 +19,9 @@ volumes:
     driver: local
   jenkins_home:
     driver: local
+
+
+
+
+
+    ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC1mrnWTCAE/tIJf+zEPkH595yo6fESqeyxpFFpMQyyFIaPukJ6nFi4F42rvVi2IqzxzY2pRvncZpSWC6E7OX6EPeM/Fl9X/GIlMeooM1Di6Ia/mTSy4sWbhZKRX07ba1rzpBb+Cz7gUnyLEcR5ce0LFrFRfFFWi8hfdP6wRvq+wvshs/gl3bpCDKbhc/SlvAU1flICGUyMZKsM2R1wrtjUl/DI33fJo4BlG7Z4NkW9Y9PglbMYG5M8oqLX/s5VsrWw+6AvLu1zY97phm7ZmsClC/6YorfxVge8DlyYIs14VmLQgz2bMrIx+/pSP8RSFclWsidD8Rq391yOmn2GP8dImDgQHXcp0ukYRh/NHA6tP2bstkpbh1ClM64zp9TwYEtDje/Qt2wdjVT39P0YVlZbXu3u2uiPqEAKpvwuVZVOfj/rXMux3gWOaiK0OW3oFFy8jz+U5Xgjas32i3dgfqlKPqnjePARmeJqX5xdmdKdiY6s8e6ZXu7VnRrrF/xMVRE= sekou@Lenovo-soum
